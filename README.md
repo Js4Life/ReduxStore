@@ -1,3 +1,16 @@
+# Deploy Process :
+
+1. vercel login and then run 'vercel'
+2. Deployed at https://blogpost-nryievgq1.vercel.app/
+
+Redux Store calling JSON APIS with Redux ,Getting list
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
